@@ -25,7 +25,6 @@ total: 463.29
 
 '''
 
-from math import log, sqrt, exp
 from pprint import pprint
 from scipy.stats import norm
 import base64
