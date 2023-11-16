@@ -1,5 +1,7 @@
 '''
 Michael Oliver
+https://mcoliver.com
+
 Alpaca Options Challenge
 https://alpaca.markets/options
 
